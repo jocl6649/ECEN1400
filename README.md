@@ -1,2 +1,2 @@
 # ECEN1400
-Final Project
+Final Project - Aerial Weather Station
